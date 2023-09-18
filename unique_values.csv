@@ -1,0 +1,151 @@
+make,model,body_type,miles,engine_vol,engine_size,transmission,feul_type,brand_new,Age
+AC,Cobra,convertible,14400,4.9,225,manual,petrol,0,22
+Abarth,C Class,hatchback,650,1.86028382,170.1341227,automatic,diesel,1,4
+Aixam,124 Spider,suv,21600,3.5,167,,petrol hybrid,,23
+Ak,500,saloon,2750,5,170,,petrol plug-in hybrid,,34
+Alfa Romeo,500C,estate,15142,1.4,168,,electric,,1
+Alpine,595,coupe,500,0.5,137,,diesel plug-in hybrid,,5
+Alvis,595C,mpv,10313,0.6,135,,diesel hybrid,,6
+Ariel,695,pickup,11500,6.2,133,,bi fuel,,7
+Aston Martin,695C,combi van,28692,1.9,142,,hydrogen,,10
+Audi,Grande Punto,car derived van,44000,1.6,140,,,,14
+Austin,Punto Evo,camper,58000,3.2,183,,,,11
+BMW,700,hearse,37098,2,180,,,,12
+Bac,Crossline,limousine,61000,2.4,145,,,,13
+Beauford,147,panel van,31000,1.8,144,,,,8
+Bentley,156,pickup double cab car,33703,2.2,143,,,,9
+Bowler,156 Sportwagon,minibus,34963,1.7,162,,,,3
+Bugatti,159,window van,35768,3,160,,,,2
+Buick,159 Sportwagon,,39000,1.75,177,,,,0
+Cadillac,164,,28196,4.7,165,,,,15
+Caterham,166,,32000,2.9,138,,,,16
+Chesil,4C,,38600,2.1,158,,,,17
+Chevrolet,8C,,23000,0.88,188,,,,20
+Chrysler,Brera,,39423,0.9,193,,,,19
+Citroen,GT,,23050,1.3,155,,,,18
+Corvette,GTV,,27250,1.2,20,,,,21
+Crendon,Giulia,,25225,1.5,15,,,,28
+Cupra,Giulietta,,29545,5.2,120,,,,24
+DFSK,MiTo,,32870,3.7,250,,,,25
+DS AUTOMOBILES,Spider,,28000,4,150,,,,26
+Dacia,Stelvio,,15500,5.9,115,,,,27
+Daewoo,Tonale,,29000,6,175,,,,52
+Daf,A110,,21305,5.3,210,,,,89
+Daihatsu,Sixteen,,9038,5.7,200,,,,63
+Daimler,Atom,,24145,2.6,185,,,,61
+Datsun,Atom 4,,23443,1,260,,,,60
+Dax,Cygnet,,13396,2.7,226,,,,58
+De Tomaso,DB11,,7615,3.1,217,,,,59
+Dodge,DB4,,26282,2.5,240,,,,56
+Factory Five,DB5,,23600,4.2,243,,,,35
+Ferrari,DB6,,25698,2.8,456,,,,50
+Fiat,DB7,,18486,4.1,147,,,,49
+Ford,DB9,,15000,6.3,220,,,,39
+GMC,DBS,,7712,2.3,280,,,,46
+Gardener,Dbx,,21219,3.6,190,,,,44
+Gbs,Lagonda,,20669,0.8,197,,,,45
+Genesis Motor,Le Mans,,13366,1.1,187,,,,30
+Great Wall,Rapide,,29420,0.85,510,,,,29
+Honda,Rapide S,,16220,3.4,502,,,,32
+Hummer,V12 Speedster,,5407,4.4,503,,,,53
+Hyundai,V12 Zagato,,17700,4.8,513,,,,68
+Infiniti,V8,,26521,5.4,178,,,,67
+Isuzu,Vanquish,,12026,6.6,276,,,,40
+Iveco,Vantage,,12752,5.6,152,,,,64
+JBA,Virage,,15460,4.6,122,,,,62
+Jaguar,80,,17000,3.3,172,,,,57
+Jeep,A1,,19874,6.8,238,,,,37
+Jensen,A2,,11900,4.3,106,,,,43
+KTM,A3,,14249,6.75,105,,,,38
+Kia,A3 Cabriolet,,9857,8,118,,,,36
+LEVC,A4,,16000,7.4,235,,,,33
+Lada,A4 Allroad,,107800,4.5,104,,,,47
+Lamborghini,A4 Avant,,54000,6.1,86,,,,31
+Lancia,A4 Cabriolet,,70000,3.8,96,,,,41
+Land Rover,A5,,97000,7,95,,,,74
+Lexus,A5 Cabriolet,,77000,0.66,93,,,,70
+Leyland,A6 Allroad,,117800,0.7,94,,,,54
+Lincoln,A6 Avant,,79999,5.8,79,,,,55
+Locust,A6 Saloon,,106004,6.4,78,,,,51
+London Taxis International,A6 Unspecified,,94000,6.7,157,,,,42
+Lotus,A7,,88000,8.3,218,,,,69
+MEV,A8,,121060,5.5,209,,,,65
+MG,Allroad,,103000,3.9,207,,,,83
+MINI,Cabriolet,,132000,6.5,206,,,,73
+Marcos,Coupe,,104411,7.3,252,,,,66
+Maserati,E-Tron,,93962,1.25,292,,,,48
+Maxus,E-Tron Gt,,84075,0.95,300,,,,72
+Maybach,E-Tron S,,81458,7.2,340,,,,86
+Mazda,Q2,,71500,7.5,350,,,,87
+McLaren,Q3,,82000,1.33,98,,,,71
+Mercedes-Benz,Q4 E-Tron,,91630,,639,,,,944
+Microcar,Q5,,103318,,630,,,,88
+Mitsubishi,Q7,,93500,,608,,,,85
+Moke,Q8,,80247,,420,,,,
+Morgan,R8,,69000,,517,,,,
+Morris,RS Q3,,64514,,547,,,,
+NG,RS3,,66000,,477,,,,
+Nissan,RS4,,85000,,725,,,,
+Noble,RS4 Avant,,68000,,707,,,,
+Oldsmobile,RS4 Cabriolet,,80000,,470,,,,
+Panther,RS5,,57000,,603,,,,
+Perodua,RS6,,60000,,558,,,,
+Peugeot,RS6 Avant,,95000,,550,,,,
+Piaggio,RS7,,84915,,560,,,,
+Pilgrim,Rs E-Tron Gt,,71652,,573,,,,
+Polaris,Rsq8,,58105,,576,,,,
+Polestar,S1,,72917,,520,,,,
+Pontiac,S3,,59500,,595,,,,
+Porsche,S4,,73000,,436,,,,
+Proton,S4 Avant,,53351,,426,,,,
+Radical,S4 Cabriolet,,73341,,535,,,,
+Reliant,S5,,28500,,446,,,,
+Renault,S6 Avant,,90044,,440,,,,
+Reo,S6 Saloon,,72383,,565,,,,
+Replica,S7,,71335,,700,,,,
+Riley,S8,,61142,,497,,,,
+Robin Hood,SQ2,,43000,,116,,,,
+Rolls-Royce,SQ5,,72000,,141,,,,
+Rover,SQ7,,59873,,114,,,,
+Royale,SQ8,,46000,,125,,,,
+SEAT,TT,,41500,,182,,,,
+SKODA,TT RS,,42000,,148,,,,
+Saab,TTS,,60802,,123,,,,
+Shelby,quattro,,36500,,110,,,,
+Smart,A30,,52000,,108,,,,
+Ssangyong,A40,,46755,,85,,,,
+Subaru,Ambassador,,35886,,103,,,,
+Sunbeam,Healey,,48786,,75,,,,
+Suzuki,Metro,,38000,,184,,,,
+TVR,Mini,,35000,,113,,,,
+Tesla,Mini Moke,,48000,,102,,,,
+Tiger,1 Series,,42757,,109,,,,
+Toyota,1502,,44026,,245,,,,
+Triumph,1602,,32400,,242,,,,
+Ultima,2 Series,,43728,,130,,,,
+Vauxhall,2 Series Active Tourer,,28400,,101,,,,
+Volkswagen,2 Series Gran Coupe,,29739,,100,,,,
+Volvo,2 Series Gran Tourer,,78000,,247,,,,
+Westfield,2002,,105000,,236,,,,
+Wolseley,3 Series,,69641,,204,,,,
+Yamaha,3 Series Gran Turismo,,75000,,201,,,,
+Zimmer,4 Series,,56000,,181,,,,
+,4 Series Gran Coupe,,52072,,136,,,,
+,5 Series,,51891,,211,,,,
+,5 Series Gran Turismo,,66442,,174,,,,
+,6 Series,,79900,,222,,,,
+,6 Series Gran Coupe,,40000,,248,,,,
+,6 Series Gran Turismo,,59067,,163,,,,
+,7 Series,,36718,,161,,,,
+,8 Series,,4300,,286,,,,
+,8 Series Alpina B8,,33000,,208,,,,
+,8 Series Gran Coupe,,25000,,265,,,,
+,Alpina B10,,23735,,215,,,,
+,Alpina B3,,29850,,128,,,,
+,Alpina B5,,29400,,230,,,,
+,Alpina B8,,13278,,272,,,,
+,Alpina D3,,73500,,134,,,,
+,Alpina D4,,70637,,237,,,,
+,Alpina D5,,30331,,249,,,,
+,Alpina Roadster,,57297,,241,,,,
+,Alpina Unspecified Models,,41588,,313,,,,
