@@ -65,7 +65,7 @@ def predict_price():
 
         predicted_price = loaded_xgb_model.predict(input_data)
 
-        return f'Predicted Car Price: ${predicted_price[0]:,.2f}'
+        return f'Predicted Car Price: £{predicted_price[0]:,.2f}'
 
     return render_template_string(template_content, feature_names=csv_data.columns, feature_values=feature_values)
 
